@@ -2,9 +2,9 @@
            echo "ola mundo <br>";
 
 
-$nome = "Arthur";
+$nome = "Claudeir";
 
-$sobrenome = "Andrade";
+$sobrenome = "Junior";
 
 $numero = 8;
 
