@@ -56,7 +56,3 @@ O **Laravel** é um **framework PHP** open-source, utilizado para desenvolver ap
 - Integração fácil com **APIs** e bibliotecas.
 - Segurança com recursos como **proteção contra CSRF e SQL Injection**.
 - Alta produtividade no desenvolvimento.
-
----
-
-## 5. Resumo Visual do Fluxo
